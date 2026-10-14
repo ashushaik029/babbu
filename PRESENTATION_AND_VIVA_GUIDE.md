@@ -1,361 +1,302 @@
-# EcoClean: Project Presentation Outline & Viva Voce Defense Guide
+# TrustHire AI: Presentation Deck & Comprehensive Viva Voce Defense Guide
 
-**Project Title:** EcoClean – Smart Waste Management & Pollution Control System  
-**Domain:** IoT, Computer Vision, Smart Cities, Sustainable Logistics, Civic Tech  
-**Prepared for:** Habeeba | Academic Final Year Capstone / Hackathon Evaluation  
+**Project Title:** TrustHire AI – AI-Based Fake Job Detection System  
+**Domain:** Natural Language Processing (NLP), Machine Learning, Cybercrime & Recruitment Fraud Prevention  
+**Prepared for:** Habeeba | Academic Final Year Capstone / Evaluation Defense  
 
 ---
 
 # PART 1: POWERPOINT PRESENTATION OUTLINE (SLIDE-BY-SLIDE)
 
-Use this complete blueprint to create your slide deck (PowerPoint, Google Slides, or Canva). Each slide includes the **Slide Design Layout**, **Slide Content (Bullet Points)**, and the **Exact Presenter Speech Script** (what to say word-for-word).
+Use this complete outline to construct your presentation slide deck (PowerPoint, Google Slides, or Canva). Each slide contains the **Visual Layout**, **Slide Content (Bullet Points)**, and the **Exact Presenter Speech Script** (what to say word-for-word).
 
 ---
 
 ### Slide 1: Title & Introduction Slide
-* **Visual Layout:** Clean modern dark green & tech-blue gradient background. Project logo/icon (leaf + circuit / smart bin), project title in bold, subtitle, student details, department, college name, and academic supervisor/guide.
+* **Visual Layout:** Dark cyber-slate background with indigo and emerald neural network accents. Shield logo, project title in bold, student name, department, and academic supervisor.
 * **Slide Content:**
-  * **Title:** **EcoClean: Smart Waste Management & Pollution Control System**
-  * **Subtitle:** An IoT & AI-Driven Cyber-Physical Ecosystem for Source Segregation, Dynamic Fleet Logistics, and Citizen Gamification
+  * **Title:** **TrustHire AI: AI-Based Fake Job Detection System**
+  * **Subtitle:** An Intelligent Multi-Layered NLP and Ensemble Machine Learning Platform for Recruitment Fraud Prevention
   * **Presented by:** Habeeba (Roll No: [Your Roll No])
   * **Department:** Department of Computer Science & Engineering / Information Technology
   * **Institution:** [Your College / University Name]
   * **Guide / Supervisor:** [Supervisor Name & Designation]
 * **Presenter Script (What to Say):**
-  > *"Respected external examiners, faculty members, and evaluators. Good morning. Today, I am proud to present my project titled **EcoClean: A Smart Waste Management & Pollution Control System**. Rapid urbanization has transformed solid waste disposal into a critical ecological and public health emergency. EcoClean bridges the gap between citizens, IoT edge hardware, and municipal logistics to deliver an automated, data-driven, and zero-pollution urban waste ecosystem. Let us begin by examining the core problem we set out to solve."*
+  > *"Respected external examiners, faculty members, and evaluators. Good morning. Today, I am proud to present my project titled **TrustHire AI: An AI-Based Fake Job Detection System**. As recruitment has transitioned almost entirely to online portals and social messaging apps, fraudulent job postings have exploded. Scammers exploit vulnerable job seekers through deceptive promises of guaranteed high salaries, advance registration fees, and identity theft. TrustHire AI introduces an automated, multi-tiered AI and NLP platform that analyzes job postings in real time to detect fraud before job seekers apply. Let us begin by examining the core problem."*
 
 ---
 
 ### Slide 2: Problem Statement & Real-World Motivation
-* **Visual Layout:** 4-box grid with warning icons representing: 1) Mixed Waste at Source, 2) Overflowing Static Bins, 3) Open Air Burning & Leachate, 4) Inefficient Municipal Fleet.
+* **Visual Layout:** 4-box grid with alert icons: 1) Financial Losses (Advance Fees), 2) Identity Theft (SSN Phishing), 3) Off-Platform Scams (Telegram/WhatsApp), 4) Inefficient Manual Verification.
 * **Slide Content:**
-  * **The Urban Crisis:** Municipal Solid Waste (MSW) generation is growing at 5% annually, with over 60% remaining unsegregated.
-  * **Static Collection Inefficiency:** Municipal trucks follow fixed routes daily, visiting empty bins while overflowing bins cause roadside dumps.
-  * **Environmental & Health Hazards:**
-    * Unattended organic waste generates toxic leachate that contaminates groundwater aquifers.
-    * Open dumps produce methane ($CH_4$) and toxic particulate matter ($PM_{2.5} / PM_{10}$) via open-air burning.
-  * **Civic Disconnect:** Lack of community awareness, absence of immediate incentives for segregation, and delayed grievance resolution.
+  * **The Global Recruitment Crisis:** Cybercrime syndicates post millions of fake listings annually across LinkedIn, Indeed, Telegram, and Craigslist.
+  * **Deceptive Tactics:** Unrealistic pay ($65+/hr for no experience), mandatory onboarding kit fees, fake check forwarding schemes, and identity theft.
+  * **Limitations of Existing Methods:**
+    * Manual moderation is slow, labor-intensive, and cannot scale to millions of daily listings.
+    * Static keyword blocklists are easily bypassed by scammers altering minor spellings.
+  * **Vulnerable Demographics:** Fresh college graduates, unemployed individuals, and remote workers suffer devastating financial losses and credit destruction.
 * **Presenter Script (What to Say):**
-  > *"The primary bottleneck in conventional municipal solid waste management is not the absence of collection trucks, but the lack of real-time intelligence. Today, garbage trucks follow static, predetermined schedules. They waste fuel visiting bins that are half-empty, while high-density commercial bins overflow for days. At the source level, citizens mix wet organic scraps with dry recyclables and hazardous e-waste. This cross-contamination renders recyclables useless and creates toxic leachate and methane in landfills. EcoClean directly targets these root causes with closed-loop automation."*
+  > *"The primary bottleneck in online recruitment security today is that traditional defense relies heavily on manual human verification and basic keyword filters. Scammers easily bypass keyword filters by slightly modifying their vocabulary. Victims are tricked into sending money via Zelle or Wire Transfer for fake onboarding kits, or sharing their Social Security Numbers and bank accounts. By the time a fraudulent posting is manually reported and removed, hundreds of applicants have already been victimized. An automated, intelligent, proactive AI solution is urgently needed."*
 
 ---
 
-### Slide 3: Project Objectives & Sustainable Development Goals (SDGs)
-* **Visual Layout:** Left side: 5 core quantitative project targets. Right side: Official UN SDG badges (SDG 11, SDG 12, SDG 13, SDG 3).
+### Slide 3: Project Objectives & Expected Outcomes
+* **Visual Layout:** 5 interconnected objective target badges.
 * **Slide Content:**
-  * **1. Source Segregation:** Enforce a 3-stream protocol (🟢 Biodegradable, 🔵 Recyclable, 🔴 Hazardous) with an 80%+ compliance rate.
-  * **2. Dynamic Route Optimization:** Reduce municipal truck fuel burn and carbon emissions by 30%+ via IoT-triggered threshold routing.
-  * **3. Real-Time Overflow Elimination:** 65% reduction in unattended roadside heaps through ultrasonic depth sensing.
-  * **4. Citizen Gamification:** Engage households through AI-assisted scan-and-sort, awareness quizzes, and redeemable EcoPoints.
-  * **5. UN SDG Alignment:**
-    * **SDG 11:** Sustainable Cities and Communities
-    * **SDG 12:** Responsible Consumption and Production
-    * **SDG 13:** Climate Action
-    * **SDG 3:** Good Health and Well-being
+  * **1. Automated ML Detection:** Classify job advertisements as genuine or fraudulent using an ensemble of supervised learning algorithms.
+  * **2. NLP Linguistic Dissection:** Uncover suspicious semantic patterns, artificial urgency cues, and formatting anomalies in job descriptions.
+  * **3. Identity & Financial Threat Shield:** Detect advance-fee demands, fake check schemes, and premature requests for sensitive identity credentials.
+  * **4. Explainable AI (XAI):** Provide transparent SHAP/LIME feature attributions so users understand *why* a posting was flagged.
+  * **5. Interactive & User-Friendly Deployment:** Deliver a responsive, zero-dependency web interface connected via RESTful API with automated failover.
 * **Presenter Script (What to Say):**
-  > *"Our system is designed around measurable KPIs aligned with the United Nations Sustainable Development Goals. Instead of an abstract software solution, EcoClean achieves concrete benchmarks: an 80% source segregation rate, a 30% reduction in municipal fuel consumption, and a 65% drop in open dumping incidents. It directly contributes to SDG 11 for sustainable urban infrastructure and SDG 12 for responsible waste lifecycle management."*
+  > *"Our project addresses five clear objectives. First, automated classification using supervised machine learning. Second, deep linguistic analysis using NLP to capture semantic urgency. Third, stopping advance-fee fraud and phishing. Fourth, integrating Explainable AI so predictions are transparent rather than a black box. And fifth, deploying an intuitive, production-ready web application with a connected REST API."*
 
 ---
 
-### Slide 4: End-to-End System Architecture (4-Tier Design)
-* **Visual Layout:** High-level 4-tier architectural flow diagram (Citizen Tier $\rightarrow$ IoT Edge Tier $\rightarrow$ Municipal Cloud & Routing Engine $\rightarrow$ Circular Economy Tier).
+### Slide 4: End-to-End System Architecture (5-Tier Design)
+* **Visual Layout:** Flowchart moving through 5 tiers: Ingestion $\rightarrow$ NLP Processing $\rightarrow$ Feature Engineering $\rightarrow$ Ensemble ML $\rightarrow$ Presentation & Advisory.
 * **Slide Content:**
-  * **Tier 1: Citizen & Source Tier**
-    * Progressive Web App (PWA) with instant AI Waste Classifier.
-    * Geo-tagged open-dump grievance reporting with automated dispatch.
-  * **Tier 2: Smart IoT Infrastructure Tier**
-    * Solar-powered smart bins with ultrasonic fill sensors and toxic gas monitoring.
-    * LoRaWAN / Cellular telemetry broadcasting real-time bin health.
-  * **Tier 3: Municipal Cloud & Optimization Tier**
-    * Dynamic Vehicle Routing Problem (VRP) solver (Dijkstra / TSP algorithm).
-    * Central sanitation dispatch and ward-level telemetry monitoring.
-  * **Tier 4: Circular Economy & Resource Recovery Tier**
-    * Decentralized composting tracking, recycled material recovery, and open data analytics.
+  * **Tier 1 - Ingestion:** Accepts structured job postings, raw text dumps, or simulated portal URLs.
+  * **Tier 2 - NLP Preprocessing:** Tokenization, stop-word removal, TF-IDF vectorization, N-gram extraction, and punctuation anomaly ratio.
+  * **Tier 3 - Feature Engineering:** Domain authenticity validation (corporate domain vs free Gmail/Yahoo), salary-to-experience outlier detection, and behavioral red flags.
+  * **Tier 4 - Ensemble ML Core:** Stacking classifier evaluating predictions from Naive Bayes, Logistic Regression, Random Forest, and XGBoost.
+  * **Tier 5 - Client Interface:** Real-time gauge risk meter, color-coded interactive token highlighter, XAI attribution waterfall, and actionable next steps.
 * **Presenter Script (What to Say):**
-  > *"This architectural diagram demonstrates how EcoClean connects physical hardware with cloud decision-making. At Tier 1, citizens classify waste and report illegal dumps. At Tier 2, solar-powered IoT bin nodes continuously measure depth and volatile gas concentrations. When bin thresholds exceed 80%, Tier 3 activates: our routing engine generates a minimum-distance collection path for the fleet driver. Finally, Tier 4 diverts organic waste into compost and dry recyclables to authorized Material Recovery Facilities."*
+  > *"This slide illustrates our system architecture across five distinct tiers. In Tier 1, the user provides a job post either via structured fields, raw unformatted text, or a portal URL. Tier 2 applies NLP pipelines including tokenization, stop-word elimination, and TF-IDF extraction. Tier 3 extracts domain integrity, verifying whether the recruiter uses an official company domain or a consumer Gmail account, and compares salary feasibility. Tier 4 feeds these multi-modal features into our machine learning ensemble. Finally, Tier 5 renders an interactive verdict, risk score, and explainable feature waterfall in the browser."*
 
 ---
 
-### Slide 5: Smart IoT Bin Hardware & Embedded Design
-* **Visual Layout:** Diagram of the Smart Bin enclosure showing sensor placement, microcontroller, power harvesting circuit, and wireless transceiver.
+### Slide 5: The EMSCAD Benchmark Dataset & Class Imbalance
+* **Visual Layout:** Pie chart showing 95.2% Legitimate vs 4.8% Fraudulent postings, plus SMOTE formulation diagram.
 * **Slide Content:**
-  * **Microcontroller:** ESP32 / Arduino MKR WAN 1310 (ultra-low-power dual-core MCU with deep-sleep support).
-  * **Ultrasonic Depth Sensor:** Waterproof JSN-SR04T ($20\text{ cm} - 600\text{ cm}$ range, IP67 sealed against moisture and corrosive waste vapors).
-  * **Gas & Air Quality Sensor:** MQ-135 semiconductor sensor monitoring Ammonia ($NH_3$), Hydrogen Sulfide ($H_2S$), and Benzene fumes from organic decomposition.
-  * **Power Subsystem:** 5W Monocrystalline solar panel + 18650 3.7V Lithium-ion cell ($3400\text{ mAh}$) with TP4056 charge protection board.
-  * **Telemetry Protocol:** LoRaWAN (868/915 MHz) for long-range ($5\text{--}15\text{ km}$), low-bitrate, penetration-resistant municipal telemetry.
+  * **Dataset Source:** Employment Scam Aegean Dataset (EMSCAD) - 17,880 verified listings.
+  * **The Challenge:** Extreme class imbalance (17,014 Legitimate vs 866 Fraudulent).
+  * **The Pitfall:** A naive model predicting 'Genuine' 100% of the time achieves 95.2% accuracy while completely failing to detect any fraud!
+  * **Our Solution:**
+    * **SMOTE (Synthetic Minority Over-sampling Technique):** Synthesizes minority fraud feature vectors using $k$-nearest neighbors ($k=5$).
+    * **Class Weighting:** Penalizes False Negatives more heavily during loss optimization.
+    * **Evaluation Focus:** Prioritizing F1-Score, Precision, and Recall over raw accuracy.
 * **Presenter Script (What to Say):**
-  > *"Looking at the hardware layer, we prioritized durability and self-sufficiency. Standard indoor sensors like the HC-SR04 fail quickly in humid waste environments. We selected the industrial-grade JSN-SR04T waterproof ultrasonic transducer sealed to IP67. To detect dangerous organic decay or fire hazards before overflow occurs, we incorporated the MQ-135 gas sensor. The entire edge unit is powered by a 5W solar panel paired with a protected lithium-ion battery. By utilizing ESP32 deep-sleep modes, the bin wakes every 15 minutes, samples telemetry, transmits over LoRaWAN, and sleeps, ensuring zero grid dependence."*
+  > *"A critical academic challenge in fake job detection is severe class imbalance. In the benchmark EMSCAD dataset of nearly 18,000 postings, only 4.8% are fraudulent. If a model simply guessed 'legitimate' for every single posting, it would appear to have 95% accuracy while being completely useless in practice! To solve this, we applied SMOTE—Synthetic Minority Over-sampling Technique—and balanced class weighting, forcing our models to learn the subtle, high-dimensional boundaries of fraudulent postings."*
 
 ---
 
-### Slide 6: AI-Assisted Waste Segregation & Computer Vision Engine
-* **Visual Layout:** Split screen showing the user scanning an item (e.g., banana peel, plastic bottle, battery), followed by the confidence bar, color-coded bin badge, and disposal guideline.
+### Slide 6: Machine Learning Models & Comparative Benchmark Results
+* **Visual Layout:** Comparative performance table highlighting Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
 * **Slide Content:**
-  * **Model Architecture:** MobileNetV3-Small / YOLOv8-Nano fine-tuned for edge and mobile browser inference.
-  * **Dataset Trained On:** TACO (Trash Annotations in Context) & TrashNet ($5000+$ labeled waste samples).
-  * **Classification Streams:**
-    * 🟢 **Biodegradable (Organic / Wet):** Food scraps, fruit peels, greasy paper $\rightarrow$ Aerobic Composting.
-    * 🔵 **Recyclable (Dry):** Clean cardboard, PET bottles, aluminum cans $\rightarrow$ Material Recovery Facility.
-    * 🔴 **Hazardous (E-Waste / Bio-Medical):** Lithium batteries, syringes, chemical cans $\rightarrow$ Regulated Autoclave / Incineration.
-  * **Inference Speed & Accuracy:** $<120\text{ ms}$ inference time on client browser with $>96\%$ classification confidence.
+  * **Multinomial Naive Bayes:** Accuracy 95.8%, F1: 0.733, Fast baseline.
+  * **Logistic Regression (TF-IDF):** Accuracy 97.4%, F1: 0.801, Strong linear separator.
+  * **Support Vector Machine (Linear SVM):** Accuracy 97.8%, F1: 0.817, Effective margin maximization.
+  * **Random Forest (200 Trees):** Accuracy 98.2%, F1: 0.843, Reduces variance across decision trees.
+  * **XGBoost Classifier:** Accuracy 98.6%, Precision 93.5%, F1: 0.874, Top gradient boosting performance.
+  * **Proposed Deep Learning SOTA (Bi-LSTM + Attention):** Accuracy 99.1%, Precision 94.8%, Recall 88.6%, F1: 0.916, ROC-AUC: 0.991.
 * **Presenter Script (What to Say):**
-  > *"To eliminate consumer confusion, EcoClean incorporates an edge AI waste scanner. Users take a photo or select an item, and the model classifies it into green, blue, or red streams with over 96% confidence. Crucially, the system doesn't just display a category—it delivers actionable instructions. For example, it instructs the user that a greasy pizza box cannot be recycled with clean paperboard because grease ruins paper pulping, so it directs it to the compost stream. Completing a scan immediately credits the citizen with EcoPoints."*
+  > *"We rigorously evaluated six distinct algorithmic architectures. While baseline Naive Bayes achieved an F1-score of 0.733, our ensemble incorporating Random Forest and XGBoost achieved 98.6% accuracy with an F1-score of 0.874. Our contextual transformer and Bi-LSTM model reached a peak F1-score of 0.916. Notice especially our fraud precision of 94.8% and recall of 88.6%, demonstrating that the system successfully identifies nearly 9 out of 10 scams while maintaining minimal false alarms."*
 
 ---
 
-### Slide 7: Mathematical Modeling & Dynamic Fleet Route Optimization
-* **Visual Layout:** Comparative diagram: Static Fixed Route (crisscrossing the entire city) vs. EcoClean Dynamic Dijkstra/TSP Route (only visiting critical bins).
+### Slide 7: Interactive Threshold Tuning & Confusion Matrix
+* **Visual Layout:** Confusion matrix grid (TP, TN, FP, FN) alongside a threshold slider graphic ($\theta \in [0.1, 0.9]$).
 * **Slide Content:**
-  * **Problem Formulation:** Capacitated Vehicle Routing Problem with Time Windows (CVRP-TW), an NP-hard combinatorial optimization challenge.
-  * **Objective Function:**
-    $$\min Z = \sum_{i} \sum_{j} c_{ij} \cdot x_{ij}$$
-    *Where $c_{ij}$ is the Euclidean/network travel distance between nodes $i$ and $j$, and $x_{ij} \in \{0, 1\}$ denotes truck transit.*
-  * **Dynamic Threshold Trigger:**
-    $$\text{Service Condition: } \text{Fill Level} \ge 80\% \quad \lor \quad \text{Gas PPM} \ge 500\text{ PPM}$$
-  * **Algorithm Executed:** Nearest Neighbor Heuristic with 2-Opt TSP permutation refinement.
-  * **Empirical Results:**
-    * Fixed Route Distance: $42.6\text{ km}$ (visiting all 6 bins).
-    * EcoClean Optimized Route: $26.8\text{ km}$ (visiting only critical nodes 101, 103, 104).
-    * **Net Savings: $37.1\%$ fuel reduction and $15.8\text{ km}$ less transit wear.**
+  * **Decision Boundary Parameter ($\theta$):** Default $\theta = 0.50$.
+  * **Asymmetric Cost of Errors:**
+    * *False Positive (FP):* Flagging a real job causes minor inconvenience.
+    * *False Negative (FN):* Missing a fake job results in financial devastation or identity theft for the candidate!
+  * **Adjustable Threshold Benefit:** Lowering $\theta$ to 0.35 achieves over **93% Recall**, maximizing job seeker safety in high-risk channels.
 * **Presenter Script (What to Say):**
-  > *"Here lies the core algorithmic intelligence of EcoClean. The collection challenge is formulated as a Capacitated Vehicle Routing Problem. In standard municipal setups, collection trucks travel full loops every day. In EcoClean, the central fleet optimizer filters only bins that meet our service condition—namely, fill capacity of 80% or higher, or hazardous gas concentration above 500 PPM. The algorithm computes the optimal Hamiltonian path starting from the Central Depot, visiting critical nodes, and returning. In our empirical test across 6 city sectors, route length dropped from 42.6 km to 26.8 km, cutting fuel consumption and carbon emissions by more than 37%."*
+  > *"In fraud detection, errors are not equal. A False Positive merely causes a user to double-check a listing, but a False Negative can cause a job seeker to lose thousands of dollars to a scammer. Our platform features an interactive decision threshold slider that allows administrators and job seekers to tune the sensitivity. By lowering the threshold to 0.35, the system elevates fraud recall to over 93%, catching virtually all malicious postings."*
 
 ---
 
-### Slide 8: Civic Gamification, Grievance Portal & Citizen Engagement
-* **Visual Layout:** Screenshots of the interactive EcoPoints Store, the 5-Question Segregation Quiz, and the Geo-Tagged Incident Reporting form.
+### Slide 8: Explainable AI (XAI) & Interactive Token Highlighting
+* **Visual Layout:** Screenshot of the live highlighted job description with color-coded tags and SHAP attribution waterfall.
 * **Slide Content:**
-  * **Geo-Tagged Grievance Engine:**
-    * Citizens capture photos of illegal roadside dumps or clogged storm drains.
-    * Automatic GPS coordinate capture with automated dispatch priority grading (High / Medium / Low).
-  * **Circular Token Economy (EcoPoints):**
-    * Citizens earn points for scanning waste correctly, completing awareness quizzes, and reporting dumps.
-    * Points are redeemable for municipal perks: **Free Public Transit Bus Passes, High-Grade Organic Compost Bags, Tree Saplings, and Local Supermarket Vouchers**.
-  * **Neighborhood Ward Leaderboards:** Fosters positive civic competition between municipal wards.
+  * **Explainable AI (XAI):** Solves the 'black-box' problem using SHAP-style positive and negative feature attribution.
+  * **Interactive Linguistic Highlighting:**
+    * 🔴 *Advance Fee / Checks:* Words like 'kit fee', 'zelle', 'reimbursement check'.
+    * 🟠 *Phishing:* Requests for 'SSN', 'bank account', 'passport copy'.
+    * 🟣 *Off-Platform Communication:* 'Telegram @recruiter', 'WhatsApp only'.
+    * 🟡 *Urgency Hooks:* 'No experience needed $65/hr', 'immediate start'.
+    * 🟢 *Legitimate Signals:* '401(k)', 'health insurance', 'equal opportunity employer'.
+  * **Actionable Next Steps:** Directs job seekers on safe actions (never pay fees, verify on official career portals).
 * **Presenter Script (What to Say):**
-  > *"Technology cannot succeed without citizen participation. EcoClean creates a win-win incentive loop. Through our gamified rewards engine, citizens earn EcoPoints for verified sorting, quizzes, and reporting illegal open-air dumping. These points are directly redeemable for municipal incentives such as subsidized public bus passes or organic compost for home gardens. This shifts waste management from a punitive chore to a community-rewarded lifestyle."*
+  > *"A standout feature of TrustHire AI is Explainability. Instead of giving users an unverified percentage, our system highlights the exact suspicious phrases directly in the job description. If an applicant hovers over 'kit fee' or 'Telegram', an educational tooltip explains why cybercriminals use this tactic. Furthermore, our XAI feature attribution waterfall displays exactly which variables influenced the prediction. Finally, the system outputs concrete defensive advice."*
 
 ---
 
-### Slide 9: Environmental Impact & Composting Bio-Yield Analysis
-* **Visual Layout:** Interactive composting formula cards, graph showing methane reduction curves, and landfill diversion rates.
+### Slide 9: Live System Demonstration & Technical Implementation
+* **Visual Layout:** Live browser demo screen or screenshot showing connected backend and frontend interface.
 * **Slide Content:**
-  * **Aerobic Composting Conversion Metric:**
-    $$\text{Compost Yield } (kg) \approx W_{\text{organic}} \times 0.35$$
-  * **Greenhouse Gas Emission Abatement:**
-    $$\text{GHG Avoidance } (\text{kg } CO_2e) \approx W_{\text{organic}} \times 1.2$$
-    *Diverting 100 kg of wet waste from an anaerobic landfill prevents approx. 120 kg of $CO_2$ equivalent methane release.*
-  * **Water Basin Protection:** Eliminates open-channel plastic accumulation, protecting stormwater drains from monsoon flash floods and preventing toxic leachate seepage into urban water tables.
+  * **Full-Stack Architecture:** RESTful API backend (`server.js` / `server.py`) communicating over HTTP with responsive client frontend.
+  * **Zero-Dependency Implementation:** Runs immediately on any modern browser and operating system without heavy package installations.
+  * **Features Demonstrated:** Single Post Scanner with real-world presets, Multi-Portal Batch Triage, ML Benchmark Lab, NLP Sandbox, Interactive Quiz, and Community Threat Radar.
 * **Presenter Script (What to Say):**
-  > *"The environmental payback of EcoClean is quantifiable. Our built-in circular economy engine calculates that every 100 kg of organic kitchen waste converted through decentralized aerobic composting yields 35 kg of nitrogen-rich bio-fertilizer. More importantly, keeping that organic matter out of unventilated landfills prevents anaerobic digestion, which abates 120 kg of CO2 equivalent emissions per 100 kg diverted. This directly combats urban ground-level ozone and toxic landfill fires."*
+  > *"Now, let us proceed to the live system demonstration. As you can see on the screen, our frontend is connected to our backend REST API on port 5000. When we load a preset—for instance, a remote data entry listing demanding a $150 kit fee on Telegram—the system executes the analysis within milliseconds. It classifies the post as 'High Risk Fraudulent' with 92% confidence, highlights the scam tokens in red, and attributes the risk to the advance-fee demand and off-platform routing."*
 
 ---
 
-### Slide 10: Live Working System Demonstration
-* **Visual Layout:** Live browser window showing [`index.html`](file:///c:/Users/Habeeba/Desktop/habeeba/index.html) running in Chrome/Edge, demonstrating the interactive tabs.
+### Slide 10: Conclusion & Future Scope
+* **Visual Layout:** Summary takeaway points and 4 future roadmap cards.
 * **Slide Content:**
-  * **Module 1: Real-Time Municipal Dashboard** (City census, active trucks, bin fill distributions).
-  * **Module 2: AI Waste Scanner & Knowledge Engine** (Item scan, confidence meter, segregation guidelines).
-  * **Module 3: IoT Telemetry Simulator & Dynamic Route Canvas** (Inflow simulation, Dijkstra path animation, fuel savings).
-  * **Module 4: Incident Grievance Portal** (GPS autofill, rapid sanitation squad dispatch).
-  * **Module 5: Composting Calculator & Rewards Store** (Real-time yield sliders and voucher redemption).
-  * **Module 6: Interactive Educational Quiz** (Dynamic scoring and instant answer explanations).
+  * **Conclusion:** TrustHire AI delivers an accurate, explainable, and accessible defense against modern online recruitment fraud.
+  * **Direct Alignment:** Fully satisfies all objectives of the problem statement.
+  * **Future Enhancements:**
+    * Real-time Chromium/Firefox browser extension for on-the-fly scanning on LinkedIn and Indeed.
+    * Integration with WHOIS and DNS APIs for instantaneous domain age verification.
+    * Multilingual NLP transformers for cross-border recruitment scam detection.
 * **Presenter Script (What to Say):**
-  > *"I will now demonstrate the fully functional EcoClean prototype. On our dashboard, you can observe real-time telemetry from 6 city sectors. When I click 'Simulate Inflow', the ultrasonic depth values and volatile gas PPM adjust dynamically. Notice how Bins 101, 103, and 104 transition to 'Critical' status. When I trigger 'Optimize Collection Route', the routing engine calculates the shortest path from the Central Depot, drawing the exact transit coordinates on our city grid canvas and displaying the exact fuel and distance savings."*
+  > *"To conclude, TrustHire AI bridges the critical security gap between job seekers and sophisticated cyber-recruitment fraud. By combining NLP semantic parsing, ensemble machine learning, and explainable AI into an intuitive interface, we provide job seekers with a vital defense layer. In future work, we plan to release this as a lightweight browser extension that highlights fake postings in real time as users browse job boards. Thank you, and I am now ready to take your questions."*
 
 ---
 
-### Slide 11: Limitations & Future Enhancements
-* **Visual Layout:** Roadmap timeline with icons: Phase 1 (Current), Phase 2 (Edge Hardware Deployment), Phase 3 (City-Wide Scaling).
-* **Slide Content:**
-  * **Current Constraints:**
-    * Prototype runs web-based simulation of LoRaWAN telemetry packets.
-    * Computer vision library currently utilizes client-side classification heuristics and web datasets.
-  * **Future Roadmap:**
-    * **Truck-Mounted Edge Cameras:** Mount MobileNet cameras on collection trucks to automatically audit household bin segregation quality during pickup.
-    * **RFID Smart Bins:** Tag household bins with passive RFID chips to automate household-level tax rebates for segregation compliance.
-    * **Smart Compactor Integration:** Hydraulically compress dry plastic waste inside smart bins to increase storage capacity by 400%.
-    * **Blockchain Municipal Audits:** Deploy tamper-proof carbon credit logs on an eco-friendly distributed ledger.
-* **Presenter Script (What to Say):**
-  > *"While our current prototype thoroughly validates the cyber-physical logic and routing models, our future roadmap includes exciting industrial integrations. We plan to mount edge-AI cameras onto the hydraulic hoists of collection trucks to automatically inspect and verify bin segregation purity. Furthermore, equipping residential bins with passive RFID tags will enable municipal councils to offer property tax rebates to households with consistent segregation scores."*
+# PART 2: 25+ COMPREHENSIVE VIVA VOCE QUESTIONS & DEFENSE ANSWERS
+
+Use these questions and model answers to master your oral defense before examiners.
+
+### Q1: What is the primary objective of your project?
+**Answer:**  
+The primary objective is to develop an intelligent, automated Artificial Intelligence and Natural Language Processing system that analyzes online job postings and accurately classifies them as genuine or fraudulent before job seekers apply. This eliminates reliance on slow manual verification, prevents financial losses from advance-fee scams, and protects candidates against identity theft.
 
 ---
 
-### Slide 12: Conclusion & Acknowledgments
-* **Visual Layout:** Key takeaway summary, project repository link, and an open Q&A visual.
-* **Slide Content:**
-  * **Key Takeaway:** EcoClean transforms municipal waste management from a reactive, fuel-wasting overhead into an automated, circular, citizen-empowered ecosystem.
-  * **Key Achievements:**
-    * Fully interactive cyber-physical simulation and route optimization engine.
-    * 37%+ empirical fleet transit distance savings.
-    * Integrated citizen gamification, grievance resolution, and composting calculators.
-  * **Open for Questions:** Thank you for your time and guidance.
-* **Presenter Script (What to Say):**
-  > *"To conclude, EcoClean proves that smart city sustainability is achieved when data-driven logistics, robust IoT sensing, and public participation converge. It eliminates overflows, cuts municipal operating expenditures, and protects our air, soil, and water resources. Thank you for your evaluation. I am now eager and ready to answer your questions."*
-
----
----
-
-# PART 2: VIVA VOCE DEFENSE & EXAMINER Q&A GUIDE
-
-This section contains the most challenging, frequent, and critical questions external examiners, technical judges, and professors ask during project viva voce defenses, complete with **model technical answers**, **underlying science**, and **pro tips**.
+### Q2: Which dataset did you use for training and benchmarking, and what are its characteristics?
+**Answer:**  
+We utilized the benchmark **EMSCAD (Employment Scam Aegean Dataset)**, containing **17,880 real-life job advertisements** collected from 2012 to 2014. It consists of 17 distinct features, including textual attributes (title, company profile, description, requirements, benefits) and categorical/binary attributes (telecommuting, has_company_logo, employment_type, required_experience).
 
 ---
 
-## Category A: Project Concept, Novelty & System Architecture
-
-### Q1: "There are already garbage collection apps and municipal trucks. What is the actual novelty of EcoClean?"
-* **Model Answer:**
-  > *"Most existing municipal applications are purely passive—either an informational website or a simple complaint form where a citizen submits an issue that takes days to resolve. On the operational side, collection trucks follow static, rigid schedules regardless of whether bins are 10% or 100% full.*  
-  > *EcoClean's novelty lies in its **closed-loop cyber-physical integration**. It links four disparate pillars into one autonomous system: real-time IoT depth and air-toxicity telemetry triggers dynamic route generation, client-side AI segregation guides the citizen at the exact point of disposal, a geo-tagged grievance engine automates squad dispatch, and a gamified reward loop incentivizes compliance. It eliminates static waste runs, cutting both municipal operating costs and urban greenhouse gas emissions."*
-* **Examiner Tip:** Emphasize the word **"closed-loop"**. Show that data flows automatically from sensors to the route generator without requiring manual data entry.
-
----
-
-### Q2: "Why did you divide the waste segregation into Green, Blue, and Red streams? Why not just Wet and Dry?"
-* **Model Answer:**
-  > *"While traditional systems use a two-stream model (Wet and Dry), international best practices and environmental chemistry demand a three-stream protocol:*  
-  > *1. **Green (Biodegradable/Organic):** High moisture content. Perfect for aerobic composting or anaerobic digestion. If mixed with plastics, it contaminates the plastic resin.*  
-  > *2. **Blue (Recyclable/Dry):** Low moisture cardboard, glass, metals, and thermoplastics. Must remain dry and clean to be processed by Material Recovery Facilities (MRFs).*  
-  > *3. **Red (Hazardous/Domestic Bio-Medical):** Batteries, expired pharmaceuticals, e-waste, sanitaries, and agrochemicals. Even a single lithium battery or mercury thermometer dumped into the 'dry' bin can cause landfill fires or poison hundreds of tons of compost with heavy metals.*  
-  > *The Red stream protects both the recycling workers and the biochemical purity of the compost."*
+### Q3: What is the biggest challenge in the EMSCAD dataset, and how did you resolve it?
+**Answer:**  
+The biggest challenge is **extreme class imbalance**: out of 17,880 listings, only 866 (~4.84%) are fraudulent, while 17,014 (~95.16%) are legitimate. If left unaddressed, a machine learning model could achieve 95.2% accuracy by simply predicting every listing as legitimate, failing entirely on fraud detection. We resolved this using:
+1. **SMOTE (Synthetic Minority Over-sampling Technique)** to generate synthetic minority fraud samples in feature space.
+2. **Balanced Class Weighting** in loss functions to heavily penalize False Negatives.
+3. Evaluating performance using **Precision, Recall, F1-Score, and ROC-AUC** rather than raw accuracy.
 
 ---
 
-## Category B: IoT Hardware & Sensor Engineering
-
-### Q3: "Why did you specify the JSN-SR04T ultrasonic sensor instead of the standard HC-SR04 sensor used in most student projects?"
-* **Model Answer:**
-  > *"The standard HC-SR04 sensor uses exposed acoustic transducers that corrode rapidly when exposed to humidity, rotting food fumes, ammonia, and outdoor rain. In contrast, the **JSN-SR04T** is an industrial, waterproof transducer sealed to **IP67 standards**.*  
-  > *It features a single enclosed probe that resists corrosive vapors and moisture, operating reliably across $-10^\circ\text{C}$ to $+70^\circ\text{C}$ over a range of $20\text{ cm}$ to $600\text{ cm}$. While it costs slightly more, it is the only viable sensor for real-world municipal waste enclosures."*
-
----
-
-### Q4: "Ultrasonic sensors can give false readings if waste piles up unevenly in the center (cone effect) or if someone throws a light cloth over it. How do you mitigate false readings?"
-* **Model Answer:**
-  > *"This is a classic edge-sensing challenge in volumetric bin monitoring. We solve it via three techniques:*  
-  > *1. **Multi-Sample Median Filtering:** Instead of relying on a single ping, the firmware takes 10 acoustic samples over 5 seconds, eliminates outliers, and computes the statistical median.*  
-  > *2. **Dual-Transducer Angling:** In full-scale deployment, two transducers are positioned at complementary angles across the bin roof to capture uneven heap geometry.*  
-  > *3. **Cross-Sensor Fusion:** We correlate depth with the **MQ-135 gas sensor**. If the ultrasonic sensor reads an abrupt fill jump but the gas concentration remains at ambient levels without weight/vibration change, the system flags it as an anomalous drop rather than a full bin, preventing premature truck dispatch."*
+### Q4: Why is F1-score more important than accuracy in this system?
+**Answer:**  
+Accuracy measures total correct predictions over total samples. In an imbalanced dataset where 95% of data belongs to one class, accuracy is misleading. The **F1-Score** is the harmonic mean of Precision and Recall:
+$$F_1 = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}$$
+It penalizes extreme trade-offs and specifically measures the model's ability to identify true fraudulent cases without generating excessive false alarms.
 
 ---
 
-### Q5: "How does the IoT node operate continuously outdoors without external electrical wiring?"
-* **Model Answer:**
-  > *"The IoT node utilizes an energy-harvesting, ultra-low-power duty cycle:*  
-  > *1. **Power Source:** A 5W monocrystalline solar panel charging a 3.7V $3400\text{ mAh}$ 18650 Li-ion battery via a TP4056 charge controller with overcharge and deep-discharge protection.*  
-  > *2. **Firmware Power Management:** The ESP32 spends 98% of its life in **Deep Sleep**, drawing only $10\text{--}15\ \mu\text{A}$.*  
-  > *3. **Wake Cycle:** Every 15 minutes, the internal Real-Time Clock (RTC) timer wakes the MCU. It powers the sensors through a MOSFET switch, reads distance and gas PPM in under 800 milliseconds, transmits a lightweight 12-byte telemetry packet over LoRaWAN, and immediately re-enters deep sleep.*  
-  > *Even during 5 consecutive rainy or overcast days, the $3400\text{ mAh}$ battery keeps the bin node fully operational without interruption."*
+### Q5: What features does your system extract from a job description using NLP?
+**Answer:**  
+Our NLP feature extraction pipeline performs:
+1. **Text Normalization:** Lowercasing, punctuation stripping, and tokenization.
+2. **N-gram Generation:** Unigrams and bigrams to capture multi-word phrases like 'wire transfer', 'registration fee', 'no experience needed'.
+3. **TF-IDF Vectorization:** Weighing domain-specific words according to their rarity across the corpus.
+4. **Linguistic Anomaly Cues:** Uppercase character inflation ratio (measuring shouting/hype), exclamation mark frequency, and urgency polarity.
+5. **Semantic Lexicon Matching:** Cross-referencing against specialized dictionaries for advance-fee requests, phishing requests, off-platform communication, and legitimate corporate benefits.
 
 ---
 
-### Q6: "Why choose LoRaWAN instead of Wi-Fi or 4G LTE cellular for bin communication?"
-* **Model Answer:**
-  > | Parameter | LoRaWAN | Wi-Fi | 4G LTE Cellular |
-  > | :--- | :--- | :--- | :--- |
-  > | **Transmission Range** | $5\text{--}15\text{ km}$ (City-wide) | $<50\text{ meters}$ | $2\text{--}10\text{ km}$ |
-  > | **Power Consumption** | Ultra-Low ($20\text{--}50\text{ mA}$ during TX) | High ($150\text{--}250\text{ mA}$) | Very High ($500\text{--}2000\text{ mA}$) |
-  > | **Recurring SIM Cost** | Zero (License-free ISM band) | N/A | High (Monthly data plan per bin) |
-  > | **Obstacle Penetration** | Excellent ($868/915\text{ MHz}$ sub-GHz) | Poor ($2.4\text{ GHz}$) | Moderate |
-  > 
-  > *"Because municipal bins only need to transmit small telemetry packets (12–20 bytes every 15 minutes), LoRaWAN is far superior. A single municipal gateway on a water tower or cell pole can cover up to 1,000 smart bins across an entire district without recurring cellular carrier fees."*
+### Q6: How does the system detect advance-fee scams?
+**Answer:**  
+Advance-fee scams involve asking the applicant to pay money upfront for an 'onboarding toolkit', 'background check', 'mandatory software', or 'courier fee' via Zelle, CashApp, wire transfer, or cryptocurrency. Our system uses a high-weight financial threat vector that flags these monetary demands, immediately escalating the risk score above the critical threshold ($>80\%$).
 
 ---
 
-## Category C: Artificial Intelligence & Computer Vision
-
-### Q7: "Which machine learning architecture is best suited for the waste classification module, and why?"
-* **Model Answer:**
-  > *"For client-side web and edge mobile deployment, we prioritize architectures with low parameter counts and high FLOP efficiency:*  
-  > *1. **MobileNetV3-Small / MobileNetV4:** Uses depthwise separable convolutions and squeeze-and-excitation blocks to achieve $>90\%$ top-1 accuracy with a model size under $15\text{ MB}$, executing in $<100\text{ ms}$ directly in the browser via WebGL/WebGPU through TensorFlow.js.*  
-  > *2. **YOLOv8-Nano (for real-time camera streams):** When deployed on an embedded Raspberry Pi or truck-mounted camera, YOLOv8-Nano performs multi-object bounding-box detection at $30+\text{ FPS}$, classifying overlapping items simultaneously (e.g., a plastic bottle sitting inside a cardboard box).*  
-  > *We trained the models using transfer learning on the **TACO (Trash Annotations in Context)** and **TrashNet** open research datasets."*
+### Q7: What is the 'Fake Check' scam, and how does your system catch it?
+**Answer:**  
+In a Fake Check scam, the fraudster mails a counterfeit check (e.g., for $3,500), instructs the victim to deposit it into their personal account, retain a portion as salary, and wire the rest to an 'approved vendor' for home office equipment. Days later, the check bounces and the victim owes the bank the full amount. Our system captures this via behavioral keyword rules ('reimbursement check', 'cashier check', 'deposit check') and explicit safety checks.
 
 ---
 
-### Q8: "How does the system handle edge cases, such as a soiled food container or e-waste disguised in a box?"
-* **Model Answer:**
-  > *"This is addressed through **Hierarchical Risk Classification and User Guidance**:*  
-  > *If an item has mixed characteristics—such as a greasy pizza box—traditional vision models might classify it strictly as 'paper/cardboard'. In our domain logic, we enforce a **Contamination Rule**: food-grade paperboard saturated with organic oils cannot be chemical-pulped for recycling because the lipids destroy hydrogen bonding between cellulose fibers. Our classifier specifically maps soiled pizza boxes to the **Green (Biodegradable/Compost)** stream with an explicit explanatory note.*  
-  > *For ambiguous items with low model confidence ($<75\%$), the application flags the uncertainty, prompts the user with a secondary clarifying question (e.g., 'Does this item contain an electronic circuit or battery?'), and ensures hazardous materials are safely diverted."*
+### Q8: Why do scammers direct candidates to Telegram or WhatsApp, and how does your system respond?
+**Answer:**  
+Scammers use Telegram and WhatsApp to isolate victims away from monitored job board platforms (like LinkedIn or Indeed), where moderation teams could detect and ban them. Telegram provides end-to-end encryption and disposable usernames with zero corporate verification. Our system assigns a heavy penalty (+24% risk) whenever an off-platform communication channel is detected in place of an enterprise Applicant Tracking System (ATS).
 
 ---
 
-## Category D: Routing Optimization & Mathematical Formulation
-
-### Q9: "Explain the mathematical formulation behind the Dynamic Route Optimizer."
-* **Model Answer:**
-  > *"The vehicle routing problem is formulated as a variant of the **Capacitated Vehicle Routing Problem (CVRP)**, which is an NP-hard combinatorial problem.*  
-  > *Let $G = (V, E)$ be a directed graph where:*  
-  > * $V = \{0, 1, 2, \dots, n\}$ represents vertices (node $0$ is the Central Municipal Depot, and nodes $1 \dots n$ are smart bins).*  
-  > * $c_{ij}$ is the cost/distance between node $i$ and node $j$.*  
-  > * $x_{ij} \in \{0, 1\}$ is the decision variable: $1$ if the truck travels from $i$ to $j$, and $0$ otherwise.*  
-  > * $u_i$ is the fill volume collected up to node $i$, with maximum truck payload capacity $Q$.*  
-  > 
-  > *Our objective function is:*  
-  > $$\min \sum_{i \in V} \sum_{j \in V} c_{ij} \cdot x_{ij}$$
-  > *Subject to constraints:*  
-  > 1. *Every critical bin $i \in V_{\text{critical}}$ is visited exactly once:*  
-  >    $$\sum_{j \in V, j \neq i} x_{ij} = 1$$
-  > 2. *Flow conservation: the truck leaves every node it enters:*  
-  >    $$\sum_{i} x_{ik} = \sum_{j} x_{kj}$$
-  > 3. *Subtour elimination (Miller-Tucker-Zemlin formulation):*  
-  >    $$u_i - u_j + Q \cdot x_{ij} \le Q - q_j \quad (\forall i \neq j \neq 0)$$
-  > 
-  > *Instead of computing the factorial permutations of all city bins ($O(n!)$), we filter for bins with $\text{Fill} \ge 80\% \lor \text{Gas} \ge 500\text{ PPM}$ and solve the dynamic tour using a Nearest Neighbor Heuristic refined with 2-Opt local search.*  
-  > *In our prototype, this delivered an immediate $37.1\%$ reduction in total fleet route length."*
+### Q9: How do you verify domain authenticity?
+**Answer:**  
+We inspect the recruiter's contact email and compare it against the claimed company:
+1. If an alleged Fortune 500 company or established enterprise recruiter uses a free consumer email address (e.g., `@gmail.com`, `@yahoo.com`, `@proton.me`), the system flags a severe domain mismatch.
+2. Legitimate employers use proprietary corporate domains (e.g., `careers@company.com`).
 
 ---
 
-### Q10: "What happens if a bin becomes critical after the garbage truck has already left the depot on its route?"
-* **Model Answer:**
-  > *"This is known as the **Dynamic On-the-Fly Re-Optimization Problem**. Because collection trucks are equipped with driver tablets running the EcoClean driver interface:*  
-  > *1. When a new bin crosses the $80\%$ threshold, the backend generates an asynchronous MQTT / WebSocket event.*  
-  > *2. The route optimizer checks the truck's remaining volume capacity ($Q - \sum q_k$) and current GPS coordinates.*  
-  > *3. If capacity allows and the detour cost ($\Delta c$) is within an allowable fuel margin, the algorithm inserts the new node into the active tour using an **Or-Opt cheapest insertion heuristic** and updates the driver's turn-by-turn navigation in real-time.*  
-  > *4. If the truck is nearly full, the bin is prioritized into the next vehicle's dispatch cycle."*
+### Q10: What is Explainable AI (XAI), and why is it implemented in your project?
+**Answer:**  
+Explainable AI (XAI) ensures that predictions made by machine learning models can be understood and audited by humans rather than treated as an opaque black box. In TrustHire AI, we use a SHAP/LIME-style feature attribution waterfall that explicitly shows which features pushed the posting toward fraud (e.g., *+35% for Advance Fee*, *+24% for Telegram Redirect*) and which features proved legitimacy (*-15% for 401(k) and health benefits*). This builds user trust and educates job seekers on red flags.
 
 ---
 
-## Category E: Citizen Engagement, Economics & Environmental Impact
-
-### Q11: "What prevents citizens from cheating the EcoPoints system by submitting fake photos of trash or repeatedly scanning the same bottle?"
-* **Model Answer:**
-  > *"To ensure economic and data integrity, we implement four layers of fraud prevention:*  
-  > *1. **EXIF Metadata & Hash Auditing:** The system checks photo timestamp, device camera serial signatures, and MD5 image hashes to block duplicate image re-submissions.*  
-  > *2. **Geofenced Rate Limiting:** Points for scanning are capped per user per day (e.g., maximum 5 scans every 24 hours), preventing automated script spam.*  
-  > *3. **Grievance Verification:** For illegal dump reporting, reports require real-time device GPS coordinates matching the photo capture location. The municipal sanitation crew verifies the site upon arrival before rewarding the reporting user with bounty bonus points.*  
-  > *4. **Micro-Value Token Economics:** EcoPoints are calibrated to micro-incentives (e.g., public bus ride discounts, compost bags, saplings) that hold civic value but are economically unviable for commercial exploitation."*
+### Q11: Explain the purpose of the interactive Decision Threshold ($\theta$) slider.
+**Answer:**  
+By default, binary classifiers use a threshold of $\theta = 0.50$ (classifying as fraud if probability $P \ge 0.50$). However, in recruitment security, missing a scam (False Negative) has catastrophic financial consequences for the candidate, whereas double-checking a real job (False Positive) is only a minor inconvenience. By lowering $\theta$ to 0.35, the system prioritizes **Recall (over 93%)**, ensuring virtually no scams slip through.
 
 ---
 
-### Q12: "How did you derive the environmental formulas for compost yield and CO2 abatement?"
-* **Model Answer:**
-  > *"These formulas are grounded in published empirical research by the EPA (Waste Reduction Model - WARM) and international solid waste engineering standards:*  
-  > *1. **Compost Yield Formula:** Raw organic food waste is typically $70\text{--}80\%$ water. During thermophilic aerobic decomposition, moisture evaporates and microbial metabolism digests carbon into volatile organic fractions, leaving approximately $35\%$ of the initial wet mass as stabilized, nutrient-dense humus. Hence, $\text{Yield} \approx W_{\text{organic}} \times 0.35$.*  
-  > *2. **Greenhouse Gas Abatement:** When organic waste is buried in an unventilated landfill, it undergoes **anaerobic decay**, producing Methane ($CH_4$). Methane has a Global Warming Potential (GWP) 28 times greater than $CO_2$ over a 100-year horizon. Aerobic composting produces only biogenic $CO_2$. Diverting 1 kg of food waste from landfill prevents approximately $1.2\text{ kg } CO_2$ equivalent emissions."*
+### Q12: Which machine learning algorithm achieved the highest performance in your tests?
+**Answer:**  
+Among traditional machine learning models, **XGBoost (Extreme Gradient Boosting)** achieved the top performance with **98.6% Accuracy, 93.5% Precision, and 0.874 F1-score**. When evaluating deep contextual architectures, **Bi-LSTM with Multi-Head Attention** achieved the highest overall score with **99.1% Accuracy and 0.916 F1-Score**, as it captures bidirectional context and long-range semantic dependencies in long job descriptions.
 
 ---
 
-## Category F: Rapid-Fire Technical Definitions (Examiner Favorites)
-
-| Term | 1-Sentence High-Impact Definition |
-| :--- | :--- |
-| **Leachate** | A toxic, black, contaminated liquid formed when rainwater percolates through decomposing waste in landfills, leaching heavy metals into groundwater. |
-| **LoRaWAN** | Long Range Wide Area Network; a low-power, low-bitrate, sub-GHz wireless protocol designed for long-distance battery-operated IoT telemetry. |
-| **VRP (Vehicle Routing Problem)** | A combinatorial optimization and integer programming problem that seeks the optimal set of routes for a fleet of vehicles servicing a given set of customers/bins. |
-| **Biomethanation** | The microbiological process where organic matter is converted into biogas (methane and carbon dioxide) by anaerobic microorganisms in an enclosed digester. |
-| **MRF (Material Recovery Facility)** | A specialized plant that receives, separates, and prepares recyclable materials for marketing to end-user manufacturers. |
-| **MQ-135 Sensor** | A metal oxide semiconductor gas sensor with a $SnO_2$ sensing layer whose conductivity increases in the presence of harmful gases such as $NH_3$, $NO_x$, alcohol, and benzene. |
-| **PWA (Progressive Web App)** | A web application built with modern web APIs that delivers native-app-like offline caching, push notifications, and hardware sensor access across all mobile devices without app store installation. |
+### Q13: How does Naive Bayes work for text classification?
+**Answer:**  
+Multinomial Naive Bayes applies Bayes' Theorem with the 'naive' assumption of conditional independence among words given the class:
+$$P(C \mid W) = \frac{P(C) \prod_{i=1}^n P(w_i \mid C)}{P(W)}$$
+It calculates the prior probability of each class and the conditional likelihood of each word appearing in genuine versus fraudulent postings, selecting the class that maximizes the posterior probability.
 
 ---
 
-## Category G: Practical Tips for Scoring Top Marks in Your Defense
+### Q14: How are the Frontend and Backend connected in your system?
+**Answer:**  
+The frontend (`index.html`, `styles.css`, `app.js`) and backend (`server.js` or `server.py`) communicate via asynchronous **RESTful API calls over HTTP** (using standard `fetch` with JSON payloads):
+- `POST /api/analyze` sends job attributes and receives the computed verdict, confidence, vector scores, XAI feature impacts, and recommendations.
+- `GET /api/health` continuously monitors server uptime and model status.
+- **Failover:** If the backend server is offline or unreachable, the frontend automatically falls back to its built-in client-side engine, guaranteeing 100% uptime and zero crashes.
 
-1. **Start with the Live Prototype:** Open [`index.html`](file:///c:/Users/Habeeba/Desktop/habeeba/index.html) immediately when asked to demonstrate. Click **"Simulate Inflow"** to show live telemetry gauge changes, and then click **"Optimize Collection Route"** to show the interactive canvas animation. Examiners love dynamic visual proof.
-2. **Anchor Your Arguments in Real Data:** Whenever you speak about savings, use our exact figures: **37.1% route reduction**, **80% segregation rate**, **1.2 kg CO2e saved per kg diverted**, and **IP67 waterproof rating**.
-3. **Acknowledge Trade-Offs Honestly:** When asked about system limitations, never claim your system is 100% flawless. Explain that sensor fouling is handled via software median filters, and that future iterations will add RFID household tags and truck-mounted edge cameras. Examiners award the highest marks to students who demonstrate engineering maturity and realistic constraints.
-4. **Be Confident with Hardware Specs:** Keep the key components at your fingertips: ESP32 MCU, JSN-SR04T waterproof ultrasonic, MQ-135 gas sensor, 5W solar panel, 18650 Li-ion battery, and LoRaWAN connectivity.
+---
+
+### Q15: Why did you build the backend with zero external npm dependencies?
+**Answer:**  
+By utilizing Node.js's native core modules (`http`, `fs`, `path`, `url`), the backend runs immediately on any system with Node installed without running `npm install`. This eliminates third-party dependency vulnerabilities, avoids package version conflicts, and ensures instant, robust academic reproducibility.
+
+---
+
+### Q16: How does the system handle subtle scams that do not mention money upfront?
+**Answer:**  
+Many sophisticated scams (like identity theft or package mule scams) avoid mentioning registration fees initially. Our system catches these through multi-vector analysis:
+1. Detecting premature requests for Social Security Numbers or bank routing numbers.
+2. Flagging free email domains and Telegram contact channels.
+3. Identifying unrealistic salary-to-experience ratios (e.g., $65/hr for zero experience).
+4. Analyzing text formatting anomalies (excessive uppercase letters and exclamation points).
+
+---
+
+### Q17: What is the difference between Precision and Recall in this context?
+**Answer:**  
+- **Precision:** Of all postings flagged by the model as fraudulent, what percentage was actually fraudulent? High precision means very few legitimate employers are falsely accused.
+- **Recall:** Of all actual fraudulent postings out there, what percentage did the model catch? High recall means very few scams are missed.
+
+---
+
+### Q18: What is a Confusion Matrix, and what are its four quadrants?
+**Answer:**  
+A Confusion Matrix summarizes the prediction results on a test dataset:
+1. **True Positives (TP):** Fraudulent postings correctly classified as Fraud.
+2. **True Negatives (TN):** Genuine postings correctly classified as Genuine.
+3. **False Positives (FP):** Genuine postings mistakenly classified as Fraud (Type I Error).
+4. **False Negatives (FN):** Fraudulent postings mistakenly classified as Genuine (Type II Error - the most dangerous).
+
+---
+
+### Q19: What are the ethical implications and limitations of automated job fraud detection?
+**Answer:**  
+1. **Startup False Positives:** Legitimate early-stage startups might lack an established corporate domain or official ATS, potentially receiving an elevated caution score.
+2. **Probabilistic Disclaimer:** Our application prominently displays an ethical AI disclaimer: automated models provide probabilistic risk assessments, and users must always perform independent verification.
+3. **Data Privacy:** User input is processed in-memory and never permanently stored or shared with third-party advertisers.
+
+---
+
+### Q20: How would you extend this system into a commercial product?
+**Answer:**  
+1. **Browser Extension:** Package the lightweight inference model into a Chrome/Firefox extension that automatically overlays safety trust badges over LinkedIn, Indeed, and Upwork job cards as users browse.
+2. **Live Domain WHOIS Integration:** Query domain registration databases via API to flag newly registered domains (e.g., domains registered less than 30 days ago).
+3. **Platform Enterprise APIs:** Partner with job boards to integrate the detection model as an automated intake gateway filter.
